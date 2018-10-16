@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Proyecto1</string>
+    <string name="et1">Nombre</string>
+    <string name="et2">Password</string>
+    <string name="boton">Ingresar</string>
+    <string name="num1">primer numero</string>
+    <string name="num2">segundo numero</string>
+    <string name="boton2">sumar</string>
+    <string name="boton3">calculadora</string>
+</resources>
